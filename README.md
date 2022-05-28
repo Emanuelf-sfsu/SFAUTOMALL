@@ -1,6 +1,6 @@
 # SFAUTOMALL
 
-For Introduction to databases, we were required to build a database of our choosing. Below is the ER diagram that we were required to create. The database was suppost to has at least 4 entities and 3 relationships. 
+For Introduction to Databases (CSC675), we were required to build a database of our choosing. Below is the ER diagram that we were required to create. The database was suppost to has at least 4 entities and 3 relationships. 
 
 The ER diagram below was designed for a car dealership to keep track of its business. 
 
